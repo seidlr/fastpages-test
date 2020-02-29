@@ -14,7 +14,9 @@ github_repo: "fastpages-test"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
+
 url: "https://seidlr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
@@ -38,16 +40,16 @@ baseurl: "/fastpages-test" # the subpath of your site, e.g. "/blog".
 
 # Email and twitter are optional:
 email: 
-twitter_username: "fastdotai"
+twitter_username: "seidlr"
 
 # Set this to true to get LaTeX math equation support
-use_math: 
+use_math: true
 
 # Set this to true to display the summary of your blog post under your title on the Home page.
 show_description: true
 
 # Set this to true to display image previews on home page, if they exist
-show_image: false
+show_image: true
 
 # Set this to true to display tags on each post
 show_tags: true
