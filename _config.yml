@@ -14,7 +14,9 @@ github_repo: "fastpages-test"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
-# url: "https://fastpages.fast.ai" # the base hostname & protocol for your site, e.g. http://example.com
+
+url: "https://seidlr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
@@ -34,7 +36,7 @@ github_repo: "fastpages-test"
 #
 # 3. You must replace the parameter `baseurl` in _action_files/settings.ini with the same value as you set here but WITHOUT QUOTES.
 #
-baseurl: "" # the subpath of your site, e.g. "/blog".
+baseurl: "/fastpages-test" # the subpath of your site, e.g. "/blog".
 
 # Email and twitter are optional:
 email: 
